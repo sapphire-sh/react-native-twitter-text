@@ -1,0 +1,22 @@
+{
+  "name": "react-native-twitter-text",
+  "version": "0.0.1",
+  "description": "Twitter text linkification module for React Native",
+  "main": "./twitter-text.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapphiredev/react-native-twitter-text.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "sapphire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sapphiredev/react-native-twitter-text/issues"
+  },
+  "homepage": "https://github.com/sapphiredev/react-native-twitter-text#readme"
+}
