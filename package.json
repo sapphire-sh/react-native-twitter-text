@@ -22,5 +22,8 @@
   "devDependencies": {
     "react": "^15.5.3",
     "react-native": "^0.43.2"
+  },
+  "dependencies": {
+    "twitter-text": "^1.14.3"
   }
 }
