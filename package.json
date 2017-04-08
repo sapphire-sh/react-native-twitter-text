@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/sapphiredev/react-native-twitter-text/issues"
   },
-  "homepage": "https://github.com/sapphiredev/react-native-twitter-text#readme"
+  "homepage": "https://github.com/sapphiredev/react-native-twitter-text#readme",
+  "devDependencies": {
+    "react": "^15.5.3",
+    "react-native": "^0.43.2"
+  }
 }
